@@ -1,6 +1,6 @@
 services:
-  okvtwo:
+  crain:
     build: .
     shm_size: 2.6gb
     ports:
-      - "80:80"
+      - "39772:39772"
